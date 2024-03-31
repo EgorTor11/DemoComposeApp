@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoComposeApp</string>
+    <string name="from">From:</string>
+    <string name="dead">Dead</string>
+    <string name="alive">Alive</string>
+    <string name="unknown">Unknown</string>
+    <string name="app_title">Compose is not xml for you © Rick Sanchez</string>
+    <string name="try_again">Try again</string>
+    <string name="cd_character_image">Character Image</string>
+    <string name="error">Error</string>
+</resources>
