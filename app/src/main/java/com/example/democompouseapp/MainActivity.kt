@@ -14,7 +14,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             val mainViewModel = hiltViewModel<MainViewModel>()
-            MainScreen(mainViewModel)
+            MainScreen(mainViewModel) //
         }
     }
 }
